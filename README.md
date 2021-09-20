@@ -1,6 +1,10 @@
 # hello-world
-a short description
+deleted
 
-a bit about yourself
+a bit about yourself,
+test
+
 
 i'm following the Github guide ;-)
+
+1+1=3
